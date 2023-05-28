@@ -46,7 +46,7 @@ Embrace Diversity and Inclusivity: Recognize the significance of diversity and i
 
 ## For The Links of the Google Slides(https://docs.google.com/presentation/d/1xBUHQmVbouom9Orl8Ekc0n9FuklV3EOjWTGeA016vFw/edit#slide=id.p)
 
-And for the Various DataSets
+And for the Various DataSets that were used for this project
 
 Box Office Mojo(https://www.boxofficemojo.com/) to an external site.
 
